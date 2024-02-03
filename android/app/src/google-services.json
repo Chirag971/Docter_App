@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363785300750",
+    "project_id": "medit-73ff9",
+    "storage_bucket": "medit-73ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363785300750:android:a4bda2ba95712bd1af055f",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363785300750-pubdv7rfats6mm303t5eeg39m8lpd01a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvb1OHB9N0Sqp-VRq1hIe_ugxJa9kuSBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363785300750-pubdv7rfats6mm303t5eeg39m8lpd01a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
